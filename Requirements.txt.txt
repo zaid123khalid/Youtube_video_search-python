@@ -1,0 +1,2 @@
+pip install tkhtmlview
+pip install youtube-search-python
